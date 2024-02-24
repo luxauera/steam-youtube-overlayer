@@ -23,7 +23,7 @@ def submit():
             file_name = '/static/' + file_name
             return render_template('vplayer.html', file_name=file_name)
         except:
-            return "video bulunamadı"
+            return "video not found"
 
     elif request.method == 'GET':
         return redirect('/vm')
