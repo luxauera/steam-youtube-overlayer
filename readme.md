@@ -11,7 +11,7 @@
 - Python 3.10 must be installed
 - After pull the repo just click run.bat
 - The app will start
-- http://<your ip or domain>/vm 
+- http://"your ip or pc domain"/vm 
 - In steam browser search the link
 - Submit your youtube video and enjoy !
 
