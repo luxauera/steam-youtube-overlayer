@@ -14,6 +14,7 @@
 - http://"your ip or pc domain"/vm 
 - In steam browser search the link
 - Submit your youtube video and enjoy !
+- Dont forget the clean static objects afer using program
 
 ![image](https://github.com/luxauera/steam-youtube-overlayer/blob/main/screenshot.png)
 
